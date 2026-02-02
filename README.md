@@ -31,11 +31,12 @@ An intelligent healthcare chatbot powered by Groq LLM, LangChain, and FAISS vect
 ## 📸 Screenshots
 
 ### Streamlit User Interface
-![Streamlit UI](screenshots/streamlit_ui.png)
+![Screenshot 2026-02-03 004057](https://github.com/user-attachments/assets/890af2b7-da96-4fe2-b88e-2c9b9b32d564)
 *Main interface with symptom input, patient profile selection, and risk assessment display*
 
 ### Code Architecture
-![Code Structure](screenshots/code_structure.png)
+![Screenshot 2026-02-02 230314](https://github.com/user-attachments/assets/fd7eea3e-f8e5-4dfe-adbb-e0911c213ad2)
+
 *Modular architecture with separation of concerns*
 
 ---
@@ -363,7 +364,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [GitHub](https://github.com/yourusername)
+- **Ruhul Amin Maruf** - *Initial work* - [GitHub](https://github.com/marufhasan-122)
 
 ---
 
@@ -380,8 +381,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For issues, questions, or suggestions:
-- Open an issue on [GitHub Issues](https://github.com/yourusername/ai-medical-healthcare/issues)
-- Email: your.email@example.com
+- Open an issue on [GitHub Issues](https://github.com/marufhasan-122/ai-medical-healthcare/issues)
+- Email: ruhulamin43416@gmail.com
 
 ---
 
